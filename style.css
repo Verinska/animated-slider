@@ -358,11 +358,11 @@ header nav a {
 /*mobile braeKPOINT*/
 @media screen and (max-width: 678px) {
   .slider .list .item .detail .name {
-    font-size: 2.8rem;
-    line-height: 2.8rem;
+    font-size: 2rem;
+    line-height: 2rem;
   }
 
   .slider .list .item .detail .desc {
-    font-size: 2.8rem;
+    font-size: 1rem;
   }
 }
